@@ -1,5 +1,5 @@
 function firstLetterName(){
-    alert("The name Jabin Johnson starts with the letter [J]" );
+    alert("The name Jabin Johnson starts with the letter [J]");
 }
 function divisibleByTwo(x){
     console.log; if (x % 2 === 0) {
